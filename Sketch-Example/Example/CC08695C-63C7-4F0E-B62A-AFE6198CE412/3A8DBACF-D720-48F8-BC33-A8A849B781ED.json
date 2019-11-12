@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 55,
     "width": 55,
-    "x": 446,
+    "x": 392,
     "y": 281
   },
   "hasClippingMask": false,
@@ -32,6 +32,11 @@
   "name": "Color-Box",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A12E272-AE73-4D5A-B380-85200134B380_layerStyle",
+      "value": "871CEDC5-EB20-4711-B364-C37047C54B68"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
