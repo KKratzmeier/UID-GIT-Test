@@ -32,6 +32,11 @@
   "name": "Color-Box Copy 2",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1EAE39C3-E4BD-4BBB-BD86-7CED056959F4_layerStyle",
+      "value": "AB8A7DDA-696A-4D01-AEBD-BD6225A28D9B"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
